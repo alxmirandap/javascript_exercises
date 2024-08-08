@@ -24,3 +24,11 @@ This directory gathers a mix of code in javascript. Where tests exist, they can 
 **Reference:** https://leetcode.com/problems/trapping-rain-water/description/
 
 **File:** trapping_water
+
+## Missing Number
+
+**Difficulty:** Hard
+
+**Reference:** Cracking the Code Interview 6th Edition: 17.4
+
+**File:** missing_number
