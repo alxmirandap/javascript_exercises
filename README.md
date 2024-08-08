@@ -16,3 +16,11 @@ This directory gathers a mix of code in javascript. Where tests exist, they can 
 **Reference:** https://leetcode.com/problems/merge-k-sorted-lists/description/
 
 **File:** kmerge
+
+## Trapping Rain Water
+
+**Difficulty:** Hard
+
+**Reference:** https://leetcode.com/problems/trapping-rain-water/description/
+
+**File:** trapping_water
